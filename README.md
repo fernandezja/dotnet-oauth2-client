@@ -4,5 +4,5 @@ Some OAuth2 clients with simple httpClient, nuget components. Code Kata (practic
 ### Examples
 |Example   	|Description   	| 
 |---	|---	|
-|[01-auth2-client-with-RestSharp](/tree/main/01-auth2-client-with-RestSharp)   	| Get token from demo.identityserver.io with RestSharp  	|
+|[01-auth2-client-with-RestSharp](https://github.com/fernandezja/dotnet-oauth2-client/tree/main/01-auth2-client-with-RestSharp)   	| Get token from demo.identityserver.io with RestSharp  	|
 
