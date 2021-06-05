@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Starwars.OAuth2Client", "Starwars.OAuth2Client\Starwars.OAuth2Client.csproj", "{F6D42ED6-8CFB-4A85-9D5A-7DC390A47290}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Starwars.OAuth2Client.Tests", "Starwars.OAuth2Client.Tests\Starwars.OAuth2Client.Tests.csproj", "{EE186010-5B1A-441E-A4F3-E0B20B0BA73C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Starwars.ConsoleApp", "Starwars.ConsoleApp\Starwars.ConsoleApp.csproj", "{4AD330C8-0CD9-403B-9F37-3DEFB8C85326}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6D42ED6-8CFB-4A85-9D5A-7DC390A47290}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6D42ED6-8CFB-4A85-9D5A-7DC390A47290}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6D42ED6-8CFB-4A85-9D5A-7DC390A47290}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6D42ED6-8CFB-4A85-9D5A-7DC390A47290}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE186010-5B1A-441E-A4F3-E0B20B0BA73C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE186010-5B1A-441E-A4F3-E0B20B0BA73C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE186010-5B1A-441E-A4F3-E0B20B0BA73C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE186010-5B1A-441E-A4F3-E0B20B0BA73C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AD330C8-0CD9-403B-9F37-3DEFB8C85326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AD330C8-0CD9-403B-9F37-3DEFB8C85326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AD330C8-0CD9-403B-9F37-3DEFB8C85326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AD330C8-0CD9-403B-9F37-3DEFB8C85326}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC76ECEE-4DA9-4F8D-B284-221FB125EC55}
+	EndGlobalSection
+EndGlobal
